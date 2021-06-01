@@ -166,7 +166,7 @@ If you are still using the `datastaxdevs` repo please ensure to follow the previ
  * <details>
      <summary>CLICK HERE to launch GitPod</summary>
 
-     [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+     [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/luizgustavocosta/workshop-astra-tik-tok)
    </details>
 
 ### 5. Install the Netlify CLI (Command Line Interface)
